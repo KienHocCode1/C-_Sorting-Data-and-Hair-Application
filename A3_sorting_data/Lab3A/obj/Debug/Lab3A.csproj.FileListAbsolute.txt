@@ -1,0 +1,21 @@
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.AssemblyReference.cache
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.pdb
+C:\Users\Kien Bui\source\repos\Assignment3\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\Kien Bui\source\repos\Assignment3\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\Kien Bui\source\repos\Assignment3\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\Kien Bui\source\repos\Assignment3\Lab3A\obj\Debug\Lab3A.csproj.AssemblyReference.cache
+C:\Users\Kien Bui\source\repos\Assignment3\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\Kien Bui\source\repos\Assignment3\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\Kien Bui\source\repos\Assignment3\Lab3A\obj\Debug\Lab3A.pdb
+C:\xampp\htdocs\projects_for_resume\C#\Assignment3\Lab3A\bin\Debug\Lab3A.exe.config
+C:\xampp\htdocs\projects_for_resume\C#\Assignment3\Lab3A\bin\Debug\Lab3A.exe
+C:\xampp\htdocs\projects_for_resume\C#\Assignment3\Lab3A\bin\Debug\Lab3A.pdb
+C:\xampp\htdocs\projects_for_resume\C#\Assignment3\Lab3A\obj\Debug\Lab3A.csproj.AssemblyReference.cache
+C:\xampp\htdocs\projects_for_resume\C#\Assignment3\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\projects_for_resume\C#\Assignment3\Lab3A\obj\Debug\Lab3A.exe
+C:\xampp\htdocs\projects_for_resume\C#\Assignment3\Lab3A\obj\Debug\Lab3A.pdb

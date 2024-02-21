@@ -1,0 +1,20 @@
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\bin\Debug\Lab3B.exe.config
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\bin\Debug\Lab3B.exe
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\bin\Debug\Lab3B.pdb
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\obj\Debug\Lab3B.csproj.AssemblyReference.cache
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\obj\Debug\Lab3B.Form1.resources
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\obj\Debug\Lab3B.exe
+C:\Users\Kien Bui\source\repos\Lab3A\Lab3B\obj\Debug\Lab3B.pdb
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\bin\Debug\Lab3B.exe.config
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\bin\Debug\Lab3B.exe
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\bin\Debug\Lab3B.pdb
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\obj\Debug\Lab3B.csproj.AssemblyReference.cache
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\obj\Debug\Lab3B.Form1.resources
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\obj\Debug\Lab3B.exe
+C:\xampp\htdocs\projects\C#\Assignment3\Lab3B\obj\Debug\Lab3B.pdb
